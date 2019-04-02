@@ -1,0 +1,15 @@
+This goal of this project is to produce insights into how the sentiment/complaints of Econet's services has changed over time.
+
+The project will analyse data scraped from both twitter and facebook, the 2 platforms on which Zimbabweans interact with Econet Support the most.
+
+Some important points to note before the analysis is the bias of the data. Since the analysis is to check the sentiment of the customers, one can argue that the only reason why a customer would interact with customer support to begin with would be to seek help with a grievance, hence, every tweet/post would contain negative sentiment to a degree. To counter this point, the project scope is going to be primarily on the behavior of negative/positive sentiment frequency over time.
+
+Primary Objective:
+- A time series analysis of how the frequency of complaints on service has changed over the last 9 years.
+
+Other Objectives:
+- Which month does Econet experience the most complaints?
+- Which type of complaint is most prevalent? How do these complaint categories change over time?
+- How often do customers complain that their enquiries are being ignored?
+- Which Econet SBU experiences the most customer complaints?
+- Is there a certain cluster/segment of Econet's customers that experience poor service the most?
