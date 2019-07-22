@@ -192,8 +192,8 @@ if __name__ == "__main__":
     driver = init_driver()
 
     # log in to twitter (replace username/password with your own):
-    username = 'yourname@email.com'
-    password = 'xxxx'
+    username = 'schikaura@gmail.com'
+    password = 'iluvkdzi4ever'
     login_twitter(driver, username, password)
 
     # search twitter:
